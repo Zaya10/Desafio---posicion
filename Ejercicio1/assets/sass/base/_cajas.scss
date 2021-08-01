@@ -1,0 +1,21 @@
+.navbar {
+    background-color: green;
+    width: $width;
+}
+
+p {
+   text-align: justify;
+
+}
+
+.box {
+    width: $width;
+    padding: 5px;
+    display: flex;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    }
+    

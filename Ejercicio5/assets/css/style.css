@@ -1,0 +1,19 @@
+.imagen1 {
+  position: absolute;
+  left: 200px;
+  top: 50px;
+  z-index: -1;
+  height: 350px;
+  width: 320px;
+}
+
+.imagen2 {
+  position: relative;
+  left: 40px;
+  top: 60px;
+  z-index: 1;
+  height: 350px;
+  width: 350px;
+}
+
+/*# sourceMappingURL=style.css.map */

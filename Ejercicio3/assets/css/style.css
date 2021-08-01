@@ -1,0 +1,112 @@
+@charset "UTF-8";
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+.españa {
+  position: absolute;
+}
+
+.e-rojo {
+  background-color: #ff0000;
+  width: 500px;
+  height: 100px;
+}
+
+.e-amarillo {
+  background-color: #ffff00;
+  width: 500px;
+  height: 200px;
+}
+
+.d-rojo {
+  background-color: #ff0000;
+  width: 500px;
+  height: 400px;
+  z-index: -2;
+}
+
+.d-blanco {
+  background-color: #fdfcfc;
+  width: 500px;
+  height: 40px;
+  margin-top: -240px;
+  margin-left: 0px;
+  position: absolute;
+  z-index: 1;
+}
+
+.d-blanco2 {
+  background-color: #faf5f5;
+  width: 40px;
+  height: 400px;
+  z-index: 2;
+  position: absolute;
+  margin-top: -400px;
+  margin-left: 160px;
+}
+
+.box {
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+h4 {
+  text-align: left;
+}
+
+.Emiratos {
+  width: 320px;
+  height: 133px;
+  left: 180px;
+  position: relative;
+}
+
+.EA-rojo {
+  background-color: #ff0000;
+  width: 180px;
+  height: 400px;
+  position: absolute;
+}
+
+.EA-verde {
+  background-color: #23cf47;
+}
+
+.EA-blanco {
+  background-color: #ffffff;
+}
+
+.EA-negro {
+  background-color: #000000;
+}
+
+.J-rojo {
+  background-color: #ff0000;
+  width: 100px;
+  height: 100px;
+  left: -180px;
+  top: -280px;
+  z-index: 1;
+  border-radius: 60px;
+  position: relative;
+}
+
+.J-blanco {
+  background-color: #ffffff;
+  width: 500px;
+  height: 400px;
+  z-index: -1;
+  margin-top: -440px;
+  margin-left: -400px;
+  position: absolute;
+}
+
+.t {
+  position: absolute;
+  margin-top: -140px;
+  margin-left: -400px;
+}
+
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,26 @@
+.J-rojo {
+    background-color: #ff0000;
+    width: 100px;
+    height: 100px;
+    left: -180px;
+    top: -280px;
+    z-index: 1;
+    border-radius: 60px;
+    position: relative;
+    }
+
+.J-blanco {
+    background-color: #ffffff;
+    width: 500px;
+    height: 400px;
+    z-index: -1;
+    margin-top: -440px;
+    margin-left: -400px;
+    position: absolute;
+}
+
+.t {
+    position: absolute;
+    margin-top: -140px;
+    margin-left: -400px;
+}

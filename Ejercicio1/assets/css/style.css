@@ -1,0 +1,22 @@
+/* Archivo de manifiesto */
+.navbar {
+  background-color: green;
+  width: 100%;
+}
+
+p {
+  text-align: justify;
+}
+
+.box {
+  width: 100%;
+  padding: 5px;
+  display: flex;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/*# sourceMappingURL=style.css.map */
